@@ -27,7 +27,7 @@
 
 ### 👋 About Me
 
-> **B.Tech CSIT Student & Software Developer passionate about building real software products, backend systems, full-stack web applications, and AI workflows.**
+> **B.Tech CS Student & Software Developer passionate about building real software products, backend systems, full-stack web applications, and AI workflows.**
 
 - 🔭 **Currently Building:** [**TallyAI**](https://tallyai.app) — Next-Generation AI Accounting Assistant & Compliance Audit Engine for Chartered Accountants.
 - ⚡ **Tech Architecture Focus:** Multi-Agent AI Pipelines, Distributed In-Memory Caches, Low-Latency FastAPI Systems, and Robust React Dashboards.
