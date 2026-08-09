@@ -286,9 +286,6 @@
 <a href="https://www.linkedin.com/in/utkarsh-raghuvanshi-257876276/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://twitter.com/utkarsh1x">
-  <img src="https://img.shields.io/badge/X%20/ %20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-</a>
 <a href="https://utkarsh1x.dev">
   <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
 </a>
