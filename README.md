@@ -37,55 +37,6 @@
 ---
 
 <!-- ========================================== -->
-<!--         FLAGSHIP PROJECT SPOTLIGHT         -->
-<!-- ========================================== -->
-
-### 🚀 Flagship Spotlight: **TallyAI**
-
-<div align="center">
-
-| **TallyAI** — AI-powered Accounting Assistant for Chartered Accountants & SMEs |
-| :--- |
-| **TallyAI automates bookkeeping by extracting multimodal unstructured data (Invoices, Receipts, PDFs, Excel, CSV, Voice Notes, Natural Language) into structured accounting entries, Tally-compatible XML, and Excel reports.** |
-
-</div>
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h4>⚡ Core Innovation & Capabilities</h4>
-      <ul>
-        <li><b>Multimodal</b> Data Extraction for Invoices, Receipts, PDFs, Excel, & Voice</li>
-        <li><b>Smart</b> Accounting Prediction for Ledger, Voucher Type, Narration, & GST</li>
-        <li><b>Validation</b> Center UI for Inspecting, Editing, Approving, or Rejecting Entries</li>
-        <li><b>Export</b> Tally-compatible XML Files for Direct Import into Tally Prime</li>
-      </ul>
-      <h4>📊 Performance & Impact Metrics</h4>
-      <ul>
-        <li><code>📄 Multi-Input AI Data Extraction (Image, PDF, Excel, Voice, Text)</code></li>
-        <li><code>🎯 Smart Ledger, Voucher & GST Predictions with Confidence Scores</code></li>
-        <li><code>🛡️ Built-in Validation Center for Review, Approval, & Editing</code></li>
-      </ul>
-      <br/>
-      <a href="https://github.com/utkarsh1x"><img src="https://img.shields.io/badge/View_Repository-10141D?style=for-the-badge&logo=github&logoColor=white" /></a>
-      <a href="https://github.com/utkarsh1x"><img src="https://img.shields.io/badge/Launch_TallyAI-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <a href="https://github.com/utkarsh1x">
-        <img src="https://img.shields.io/badge/smart%20ai%20accounting%20app%20for%20accountant-tallyai-38BDF8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="smart ai accounting app for accountant - tallyai" />
-      </a>
-      <br/><br/>
-      <b>Flagship Stack:</b><br/>
-      <img src="https://img.shields.io/badge/Node.js-10141D?style=flat-square&logo=nodejs&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Express-10141D?style=flat-square&logo=express&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/React-10141D?style=flat-square&logo=react&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/TypeScript-10141D?style=flat-square&logo=typescript&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Google%20Gemini%20API-10141D?style=flat-square&logo=google gemini api&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/TailwindCSS-10141D?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ========================================== -->
 <!--            FEATURED PROJECTS               -->
 <!-- ========================================== -->
 
