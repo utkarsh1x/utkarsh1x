@@ -36,7 +36,7 @@
 ---
 
 <!-- ========================================== -->
-<!--            FEATURED PROJECTS               -->
+<!--            FEATURED PROJECT          -->
 <!-- ========================================== -->
 
 ### 🛠️ Featured Open Source & High-Impact Projects
