@@ -161,37 +161,11 @@
 <!-- ========================================== -->
 <!--            ROADMAP & MILESTONES            -->
 <!-- ========================================== -->
-
-### 🗺️ Engineering Roadmap & Current Objectives
-
-| Quarter | Milestone & Target Objective | Status | Core Technologies |
-| :--- | :--- | :---: | :--- |
-| **MVP Beta** | **Multimodal Extraction & Accounting Prediction Engine**<br/><sub>Image, PDF, Excel, Voice extraction with confidence-scored predictions.</sub> | 🟢 Completed | `Node.js, Express, Gemini API` |
-| **MVP Beta** | **Validation Center & Tally XML Export Engine**<br/><sub>Review UI and XML generator for Tally Prime import.</sub> | 🟢 Completed | `React, TypeScript, Node.js` |
-| **Active Dev** | **One-Click Tally Prime Sync & Desktop Bridge**<br/><sub>Direct synchronization with local Tally Prime instances.</sub> | 🟡 In Progress | `Node.js, REST API` |
-| **Planned** | **Duplicate Detection, MongoDB & Authentication**<br/><sub>Audit integrity, user accounts, and multi-tenant organization dashboard.</sub> | 🔴 Planned | `MongoDB, Node.js, React` |
-
-
 ---
 
 <!-- ========================================== -->
 <!--            TIMELINE & CAREER               -->
 <!-- ========================================== -->
-
-### ⏳ Professional Career & Journey
-
-#### 🗓️ **Present** — Creator & Lead Developer @ **TallyAI (MVP Beta)**
-> Building an AI co-pilot for Chartered Accountants, SMEs, and Tally Prime users.
-
-- ✅ Built multimodal extraction pipeline for PDF, Image, Excel, and Voice inputs
-- ✅ Implemented ledger & voucher prediction engine using Google Gemini API
-- ✅ Created Tally XML & Excel export system
-
-#### 🗓️ **Current Education** — B.Tech CSIT Student @ **Computer Science & Information Technology**
-> Studying core Computer Science principles, algorithms, databases, and web engineering.
-
-- ✅ Focusing on Backend Systems, REST APIs, and Software Architecture
-- ✅ Building full-stack software products and AI integrations
 
 
 
@@ -215,9 +189,6 @@
 
 
 <br/>
-
-> **🚀 MVP BETA** — *Created & Built TallyAI MVP Beta* (TallyAI Milestone, 2026)<br/>_Developed an AI accounting assistant for CAs and SMEs._<br/><br/>**🌟 DEVELOPER** — *Active Product Developer & Student Engineer* (GitHub Community, Present)<br/>_Building software tools and open-source applications._
-
 ---
 
 
