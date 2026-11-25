@@ -137,15 +137,6 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1x&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="GitHub Streak" width="48%" />
 
-
-<br/><br/>
-
-
-  <h4> Contribution Grid Snake Animation</h4>
-  <a href="https://github.com/utkarsh1x" target="_blank">
-    <img src="https://snk.vercel.app/utkarsh1x/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
-  </a>
-
   <br/><br/>
 
 
