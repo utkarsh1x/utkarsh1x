@@ -13,7 +13,7 @@
 
   <br/>
 
-  <!-- QUICK PROFILE STATUS BADGES -->
+  <!-- QUICK PROFILE STATUS BADGE -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=utkarsh1x&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
     <a href="https://github.com/utkarsh1x"><img src="https://img.shields.io/github/followers/utkarsh1x?style=for-the-badge&logo=github&color=10141D&labelColor=161B22&logoColor=white" alt="GitHub Followers" /></a>
