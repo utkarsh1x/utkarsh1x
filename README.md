@@ -25,13 +25,13 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 > **B.Tech CS Student & Software Developer passionate about building real software products, backend systems, full-stack web applications, and AI workflows.**
 
-- ⚡ **Tech Architecture Focus:** Multi-Agent AI Pipelines, Distributed In-Memory Caches, Low-Latency FastAPI Systems, and Robust React Dashboards.
-- 🎓 **Engineering Philosophy:** *"Build deterministic software systems that scale cleanly, fail safely, and serve human needs effortlessly."*
-- 📫 **How to reach me:** [**raghuvanshi1x@gmail.com**](mailto:raghuvanshi1x@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/utkarsh-raghuvanshi-257876276/).
+-  **Tech Architecture Focus:** Multi-Agent AI Pipelines, Distributed In-Memory Caches, Low-Latency FastAPI Systems, and Robust React Dashboards.
+-  **Engineering Philosophy:** *"Build deterministic software systems that scale cleanly, fail safely, and serve human needs effortlessly."*
+-  **How to reach me:** [**raghuvanshi1x@gmail.com**](mailto:raghuvanshi1x@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/utkarsh-raghuvanshi-257876276/).
 
 ---
 
@@ -39,19 +39,19 @@
 <!--            FEATURED PROJECT          -->
 <!-- ========================================== -->
 
-### 🛠️ Featured Open Source & High-Impact Projects
+###  Featured Open Source & High-Impact Projects
 
 
 <details open>
-<summary><b>📌 Full-Stack & Backend Engineering — Modern Web Applications & REST API Services</b></summary>
+<summary><b> Full-Stack & Backend Engineering — Modern Web Applications & REST API Services</b></summary>
 <br/>
 
 > Building web tools, REST APIs, and software interfaces with React, Node.js, Express, and TypeScript.
 
 **Tech Stack:** `React` • `TypeScript` • `Node.js` • `Express` • `TailwindCSS`
 
-- ⚡ Clean Architecture
-- 🎯 Practical & User-Centric
+-  Clean Architecture
+-  Practical & User-Centric
 
 **Key Highlights:**
 - 🔹 Modular component design
@@ -70,9 +70,9 @@
 <!--               TECH STACK                   -->
 <!-- ========================================== -->
 
-### 💻 Technical Stack & Arsenal
+###  Technical Stack & Arsenal
 
-#### ⚡ **Programming Languages**
+####  **Programming Languages**
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
 </p>
 
-#### 🎨 **Frontend & UI Frameworks**
+####  **Frontend & UI Frameworks**
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
 </p>
 
-#### 🛠️ **Backend & Microservices**
+####  **Backend & Microservices**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
@@ -96,20 +96,20 @@
   <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
 </p>
 
-#### 🗄️ **Databases & Vector Search**
+####  **Databases & Vector Search**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
 </p>
 
-#### ☁️ **DevOps & Cloud Infrastructure**
+####  **DevOps & Cloud Infrastructure**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
 </p>
 
-#### 🔧 **Systems, Tooling & Operating Systems**
+####  **Systems, Tooling & Operating Systems**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code Agent" height="32" style="margin-right: 6px; margin-bottom: 8px;" />
@@ -127,7 +127,7 @@
 <!--            GITHUB METRICS & STATS          -->
 <!-- ========================================== -->
 
-### 📊 GitHub Productivity & Streak Analytics
+###  GitHub Productivity & Streak Analytics
 
 <div align="center">
 
@@ -141,7 +141,7 @@
 <br/><br/>
 
 
-  <h4>🐍 Contribution Grid Snake Animation</h4>
+  <h4> Contribution Grid Snake Animation</h4>
   <a href="https://github.com/utkarsh1x" target="_blank">
     <img src="https://snk.vercel.app/utkarsh1x/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
   </a>
@@ -150,7 +150,7 @@
 
 
 
-  <h4>📈 Activity & Commit Frequency Trend</h4>
+  <h4> Activity & Commit Frequency Trend</h4>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh1x&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=A855F7" alt="Activity Graph" width="98%" />
 
 
@@ -175,7 +175,7 @@
 <!--            ACHIEVEMENTS & BADGES           -->
 <!-- ========================================== -->
 
-### 🏆 Key Achievements & Recognitions
+###  Key Achievements & Recognitions
 
 <p align="left">
 
