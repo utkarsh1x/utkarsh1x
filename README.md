@@ -136,10 +136,16 @@
 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh1x&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="GitHub Streak" width="48%" />
+  
+<br/><br/>
+
+
+  <h4> Contribution Grid Snake Animation</h4>
+  <a href="https://github.com/utkarsh1x" target="_blank">
+    <img src="https://snk.vercel.app/utkarsh1x/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" width="100%" />
+  </a>
 
   <br/><br/>
-
-
 
   <h4> Activity & Commit Frequency Trend</h4>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh1x&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=A855F7" alt="Activity Graph" width="98%" />
